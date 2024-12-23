@@ -10,7 +10,25 @@ I am passionate about leveraging my analytical and problem-solving skills to pro
 <hr></hr>
 <h3>Certifications</h3>
 <a href="https://www.credly.com/go/iUgUsYpq">Google CyberSecurity Professional Certificate</a>
-<hr></h
+<hr></hr>
+
+:computer: I'm a Cybersecurity Analyst.
+
+:house_with_garden: I’m from Nigeria.
+
+:books: I'm currently learning more about IT and Security.
+
+## Programming Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurityUP&langs_count=8)](https://github.com/CyberSecurityUP/github-readme-stats)
+
+## Social Networks
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Bryant-okoro)](https://github.com/Bryant-okoro)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryant-okoro)](https://www.linkedin.com/in/bryant-okoro/)
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/C0d3C4z)](https://twitter.com/C0d3C4z)
 <!---
 Bryant-okoro/Bryant-okoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
