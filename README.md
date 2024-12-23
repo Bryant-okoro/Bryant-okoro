@@ -28,7 +28,6 @@ I am passionate about leveraging my analytical and problem-solving skills to pro
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryant-okoro)](https://www.linkedin.com/in/bryant-okoro/)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/C0d3C4z)](https://twitter.com/C0d3C4z)
 <!---
 Bryant-okoro/Bryant-okoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
