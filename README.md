@@ -20,7 +20,7 @@ I am passionate about leveraging my analytical and problem-solving skills to pro
 
 ## Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurityUP&langs_count=8)](https://github.com/CyberSecurityUP/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurityUP&langs_count=8)](https://github.com/bryant-okoro/github-readme-stats)
 
 ## Social Networks
 
